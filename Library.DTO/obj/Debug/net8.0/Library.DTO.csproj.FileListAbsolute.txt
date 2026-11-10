@@ -1,0 +1,15 @@
+D:\DotNepApp\LibraryManagement\Library.DTO\bin\Debug\net8.0\Library.DTO.deps.json
+D:\DotNepApp\LibraryManagement\Library.DTO\bin\Debug\net8.0\Library.DTO.dll
+D:\DotNepApp\LibraryManagement\Library.DTO\bin\Debug\net8.0\Library.DTO.pdb
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library.DTO.AssemblyInfoInputs.cache
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library.DTO.AssemblyInfo.cs
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library.DTO.csproj.CoreCompileInputs.cache
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library.DTO.dll
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\refint\Library.DTO.dll
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library.DTO.pdb
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\ref\Library.DTO.dll
+D:\DotNepApp\LibraryManagement\Library.DTO\bin\Debug\net8.0\Library.DAL.dll
+D:\DotNepApp\LibraryManagement\Library.DTO\bin\Debug\net8.0\Library.DAL.pdb
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library.DTO.csproj.AssemblyReference.cache
+D:\DotNepApp\LibraryManagement\Library.DTO\obj\Debug\net8.0\Library..FC9BACFE.Up2Date

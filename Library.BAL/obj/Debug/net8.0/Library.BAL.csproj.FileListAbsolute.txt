@@ -1,0 +1,17 @@
+D:\DotNepApp\LibraryManagement\Library.BAL\bin\Debug\net8.0\Library.BAL.deps.json
+D:\DotNepApp\LibraryManagement\Library.BAL\bin\Debug\net8.0\Library.BAL.dll
+D:\DotNepApp\LibraryManagement\Library.BAL\bin\Debug\net8.0\Library.BAL.pdb
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library.BAL.AssemblyInfoInputs.cache
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library.BAL.AssemblyInfo.cs
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library.BAL.csproj.CoreCompileInputs.cache
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library.BAL.dll
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\refint\Library.BAL.dll
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library.BAL.pdb
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\ref\Library.BAL.dll
+D:\DotNepApp\LibraryManagement\Library.BAL\bin\Debug\net8.0\Library.DAL.dll
+D:\DotNepApp\LibraryManagement\Library.BAL\bin\Debug\net8.0\Library.DTO.dll
+D:\DotNepApp\LibraryManagement\Library.BAL\bin\Debug\net8.0\Library.DTO.pdb
+D:\DotNepApp\LibraryManagement\Library.BAL\bin\Debug\net8.0\Library.DAL.pdb
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library.BAL.csproj.AssemblyReference.cache
+D:\DotNepApp\LibraryManagement\Library.BAL\obj\Debug\net8.0\Library..61D7F545.Up2Date

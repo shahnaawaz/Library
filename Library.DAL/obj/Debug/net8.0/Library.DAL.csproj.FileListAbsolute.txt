@@ -1,0 +1,14 @@
+D:\DotNepApp\LibraryManagement\Library.DAL\bin\Debug\net8.0\Library.DAL.deps.json
+D:\DotNepApp\LibraryManagement\Library.DAL\bin\Debug\net8.0\Library.DAL.runtimeconfig.json
+D:\DotNepApp\LibraryManagement\Library.DAL\bin\Debug\net8.0\Library.DAL.dll
+D:\DotNepApp\LibraryManagement\Library.DAL\bin\Debug\net8.0\Library.DAL.pdb
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.csproj.AssemblyReference.cache
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.AssemblyInfoInputs.cache
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.AssemblyInfo.cs
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.csproj.CoreCompileInputs.cache
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.dll
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\refint\Library.DAL.dll
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.pdb
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\Library.DAL.genruntimeconfig.cache
+D:\DotNepApp\LibraryManagement\Library.DAL\obj\Debug\net8.0\ref\Library.DAL.dll
